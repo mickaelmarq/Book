@@ -3,7 +3,7 @@ title: Site-mémorial du Camp des Milles
 category: [design]
 date: 2013-01-05 00:00
 id: 5
-published: false
+published: true
 img: /database/project-05/00-thumb-bw.jpg
 ---
 <div class="project">
