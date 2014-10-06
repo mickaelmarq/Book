@@ -278,18 +278,18 @@ a.btn span {
   background-color: #ed5856;
   padding: 15px 20px 11px 20px;
   border-radius: 3px;
-  box-shadow: 0 4px 0 #bf4846;
+  box-shadow: 0 4px 0 #ba3e3d;
   text-align: center;
 }
 a.btn:hover span {
-  box-shadow: 0 2px 0 #bf4846;
+  box-shadow: 0 2px 0 #ba3e3d;
 }
 a.btn:hover {
   padding-top: 2px;
   height: 40px;
 }
 a.btn:active span {
-  box-shadow: 0 0 0 #bf4846;
+  box-shadow: 0 0 0 #ba3e3d;
 }
 a.btn:active {
   padding-top: 4px;
@@ -305,7 +305,6 @@ body {
   width: 100%;
   -webkit-text-size-adjust: 100%;
   /* Stops Mobile Safari from auto-adjusting font-sizes */
-
   margin: 0 auto;
   font: 18px/20px 'bariol_lightlight', Arial, sans-serif;
   font-weight: normal;
@@ -404,7 +403,6 @@ body {
 #contact-wrap2 {
   width: 100%;
   /*display:none;*/
-
   background: #1c1e1f url('../img/map.jpg') no-repeat center top;
   position: fixed;
   z-index: -1;
@@ -574,7 +572,6 @@ body {
   position: absolute;
   background-color: rgba(39, 42, 44, 0.8);
   /*background-color:@color2;*/
-
   height: 100%;
   width: 100%;
   transition: background-color 0.2s;
@@ -611,7 +608,6 @@ body {
   position: relative;
   cursor: pointer;
   /*border-radius: 200px;*/
-
 }
 #book .dribbble-item .item-img {
   position: absolute;
