@@ -1,9 +1,14 @@
 {
+  "convertHtml": {
+    "relativePaths": false
+  },
   "debug": false,
   "domain": "mickaelmarquez.com",
   "lintScripts": false,
   "modelSource": null,
-  "preprocessorLocations": "assets",
+  "preprocessorLocations": [
+    "assets"
+  ],
   "preprocessorScriptOutput": "assets/scripts",
   "preprocessorStyleOutput": "assets/css",
   "projectDescription": "A simple empty boilerplate for a fresh start",

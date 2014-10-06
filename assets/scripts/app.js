@@ -2,7 +2,7 @@ $(window).load(function() {
 
 
 
-  $('#wrapper').show();
+  $('#wrap').show();
   $('#site-loader').fadeOut(400);
  
   mobile = false;
@@ -191,7 +191,7 @@ $(window).load(function() {
       
     }
 
-    console.log(fixedLimitStart + ' --- ' +fixedLimitEnd);
+    // console.log(fixedLimitStart + ' --- ' +fixedLimitEnd);
     
   });
   
@@ -207,7 +207,7 @@ $(window).load(function() {
   
   document.body.onresize = function (){
     calcFixedDescription();
-    console.log('fixedLimitStart = '+fixedLimitStart);
+    // console.log('fixedLimitStart = '+fixedLimitStart);
     calcContactBottom();
     loaderMidle = ($(window).width() - $('#loader').width())/2;
     $('#loader').css('left', loaderMidle);
@@ -278,12 +278,12 @@ $(window).load(function() {
 
               setTimeout(function(){
                 reCalcFixedDescription();
-                console.log('reCalcFixedDescription');
+                // console.log('reCalcFixedDescription');
               },1000);
 
               setTimeout(function(){
                 reCalcFixedDescription();
-                console.log('reCalcFixedDescription');
+                //console.log('reCalcFixedDescription');
               },2000);
 
               
@@ -319,17 +319,17 @@ $(window).load(function() {
   function changeRoute(route){
    
 
-    if($('#project').hasClass('first') == true){
-      console.log('test de premier chargement');
+    // if($('#project').hasClass('first') == true){
+    //   console.log('test de premier chargement');
 
-      $('#project').removeClass('first');
+    //   $('#project').removeClass('first');
 
-    }else{
+    // }else{
 
 
       getArticle(route);
 
-    }
+    //}
    
   }
 
@@ -374,7 +374,7 @@ $(window).load(function() {
 
 function dribbble(){
 
-  console.log('load shot');
+  //console.log('load shot');
 
   $.ajax({
     url: 'http://api.dribbble.com/players/mickaelmarquez/shots',
