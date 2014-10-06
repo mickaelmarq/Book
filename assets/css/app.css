@@ -154,11 +154,11 @@ video {
   font-style: normal;
 }
 ::selection {
-  background: #ed5856;
+  background: #ed5664;
   color: #FFFFFF;
 }
 ::-moz-selection {
-  background: #ed5856;
+  background: #ed5664;
   color: #FFFFFF;
 }
 img::selection {
@@ -168,16 +168,16 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  -webkit-tap-highlight-color: #ed5856;
+  -webkit-tap-highlight-color: #ed5664;
   color: #FFFFFF;
 }
 #about ::selection {
   background: #FFFFFF;
-  color: #ed5856;
+  color: #ed5664;
 }
 #about ::-moz-selection {
   background: #FFFFFF;
-  color: #ed5856;
+  color: #ed5664;
 }
 #about img::selection {
   background: transparent;
@@ -187,7 +187,7 @@ body {
 }
 #about {
   -webkit-tap-highlight-color: #FFFFFF;
-  color: #ed5856;
+  color: #ed5664;
 }
 .col1 {
   width: 840px;
@@ -275,21 +275,21 @@ a.btn {
   float: left;
 }
 a.btn span {
-  background-color: #ed5856;
+  background-color: #ed5664;
   padding: 15px 20px 11px 20px;
   border-radius: 3px;
-  box-shadow: 0 4px 0 #ba3e3d;
+  box-shadow: 0 4px 0 #c6303e;
   text-align: center;
 }
 a.btn:hover span {
-  box-shadow: 0 2px 0 #ba3e3d;
+  box-shadow: 0 2px 0 #c6303e;
 }
 a.btn:hover {
   padding-top: 2px;
   height: 40px;
 }
 a.btn:active span {
-  box-shadow: 0 0 0 #ba3e3d;
+  box-shadow: 0 0 0 #c6303e;
 }
 a.btn:active {
   padding-top: 4px;
@@ -317,7 +317,7 @@ body {
 .loader {
   display: none;
   position: fixed;
-  background-color: #ed5856;
+  background-color: #ed5664;
   bottom: 0;
   height: 60px;
   width: 100%;
@@ -381,7 +381,7 @@ body {
 .header .menu li a:hover,
 .header .menu li a.current {
   color: #FFFFFF;
-  border-bottom: 2px solid #ed5856;
+  border-bottom: 2px solid #ed5664;
 }
 #header-wrap2 {
   width: 100%;
@@ -417,7 +417,7 @@ body {
   font: 18px/20px 'bariol_lightlight', Arial, sans-serif;
 }
 .contact a:hover {
-  color: #ed5856;
+  color: #ed5664;
 }
 .contact {
   margin: 0 auto;
@@ -426,7 +426,7 @@ body {
   padding-top: 80px;
 }
 .contact h2 {
-  color: #ed5856;
+  color: #ed5664;
 }
 .contact li {
   display: block;
@@ -448,7 +448,7 @@ body {
 }
 #about-wrap {
   width: 100%;
-  background-color: #ed5856;
+  background-color: #ed5664;
 }
 #about {
   margin: 0 auto;
@@ -499,7 +499,7 @@ body {
   border-color: #565A5C;
 }
 #skills .headline h2 {
-  color: #ed5856;
+  color: #ed5664;
 }
 #skills .headline .btn {
   float: right;
@@ -577,7 +577,7 @@ body {
   transition: background-color 0.2s;
 }
 #book .no-touch .layer:hover {
-  background-color: rgba(237, 88, 86, 0.8);
+  background-color: rgba(237, 86, 100, 0.8);
   transition: background-color 0.2s;
 }
 #book .item .layer h4 {
@@ -634,7 +634,7 @@ body {
   transition: margin-top 0.2s;
 }
 #book .dribbble-item .layer:hover {
-  background-color: rgba(237, 88, 86, 0.8);
+  background-color: rgba(237, 86, 100, 0.8);
   transition: background-color 0.2s;
 }
 #book .dribbble-item .layer:hover .wen {
@@ -692,7 +692,7 @@ body {
   font-style: italic;
 }
 #book .project .description p.note a:hover {
-  color: #ed5856;
+  color: #ed5664;
 }
 #book .project .description a.btn {
   margin-top: 20px;
