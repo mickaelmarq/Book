@@ -335,6 +335,7 @@ body {
 #site-loader {
   display: block;
   height: 100%;
+  top: 0;
 }
 #wrapper {
   background: #1c1e1f url('../img/bg.jpg') repeat center top;
