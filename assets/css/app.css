@@ -278,18 +278,18 @@ a.btn span {
   background-color: #ed5664;
   padding: 15px 20px 11px 20px;
   border-radius: 3px;
-  box-shadow: 0 4px 0 #c6303e;
+  box-shadow: 0 4px 0 #ba3d48;
   text-align: center;
 }
 a.btn:hover span {
-  box-shadow: 0 2px 0 #c6303e;
+  box-shadow: 0 2px 0 #ba3d48;
 }
 a.btn:hover {
   padding-top: 2px;
   height: 40px;
 }
 a.btn:active span {
-  box-shadow: 0 0 0 #c6303e;
+  box-shadow: 0 0 0 #ba3d48;
 }
 a.btn:active {
   padding-top: 4px;
