@@ -1,0 +1,15 @@
+<nav class="header col1">
+	<ul  class="menu menu1">
+		{% for item in global.nav1 %}
+			<li class=""><a href="#" class="{{ item.class }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+	<a href="/" class="logo ajax"></a>
+	<ul class="menu menu2">
+		{% for item in global.nav2 %}
+			<li class=""><a href="#" class="{{ item.class }}">{{ item.title }}</a></li>
+		{% endfor %}
+	</ul>
+</nav>
+
+

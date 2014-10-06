@@ -1,0 +1,19 @@
+<section id="skills-wrap">
+    <div id="skills" class="col1">
+    	<header class="headline">
+        	<h2>{{global.skill-title}}</h2>
+        	<p class="col2">{{global.skill-description}}</p>
+        	<a class="btn contact-link" href="{{global.contact-btn-link}}"><span class="col3">{{global.contact-btn-title}}</span></a>
+      	</header>
+
+
+      	{% for item in global.skills %}
+      		<div class="skill col3">
+			      <span id="{{item.id}}"></span>
+          	<h3>{{item.title}}</h3>
+          	<p>{{item.description}}</p>
+        	</div>
+	      {% endfor %}
+
+	</div>
+</section>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="30px" height="30px" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+<g>
+	<path style="fill:#FFFFFF;" d="M15,4.864C9.412,4.864,4.865,9.412,4.865,15h2.433c0-4.248,3.455-7.703,7.703-7.703
+		c4.247,0,7.702,3.455,7.702,7.703h2.434C25.136,9.412,20.589,4.864,15,4.864z"/>
+	<animateTransform
+		attributeName="transform"
+		begin="0s"
+		dur="2s"
+		type="rotate"
+		from="0 15 15"
+		to="360 15 15"
+		repeatCount="indefinite" 
+	/>
+</g>
+<g>
+	<path style="fill:#FFFFFF;" d="M17.838,15c0,1.565-1.273,2.838-2.838,2.838S12.162,16.565,12.162,15H9.73
+		c0,2.906,2.364,5.271,5.27,5.271c2.906,0,5.271-2.365,5.271-5.271H17.838z"/>
+	<animateTransform
+		attributeName="transform"
+		begin="0s"
+		dur="4s"
+		type="rotate"
+		from="0 15 15"
+		to="-360 15 15"
+		repeatCount="indefinite" 
+	/>
+</g>
+<g>
+	<path style="fill:#FFFFFF;" d="M27.567,15c0,6.93-5.638,12.566-12.567,12.566C8.07,27.566,2.432,21.93,2.432,15H0
+		c0,8.271,6.729,15,15,15c8.271,0,15-6.729,15-15H27.567z"/>
+	<animateTransform
+		attributeName="transform"
+		begin="0s"
+		dur="2s"
+		type="rotate"
+		from="0 15 15"
+		to="-360 15 15"
+		repeatCount="indefinite" 
+	/>
+</g>
+</svg>

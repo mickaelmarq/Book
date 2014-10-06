@@ -1,0 +1,429 @@
+{
+  "projects": {
+    "index": {
+      "img": {
+        "/database/project-08/00-thumb-bw.jpg": [
+          "/projects/layrr"
+        ],
+        "/database/project-07/00-thumb-bw.jpg": [
+          "/projects/itele"
+        ],
+        "/database/project-09/00-thumb-bw.jpg": [
+          "/projects/canalfootballapp"
+        ],
+        "/database/project-04/00-thumb-bw.jpg": [
+          "/projects/bring"
+        ],
+        "/database/project-05/00-thumb-bw.jpg": [
+          "/projects/campdesmilles"
+        ],
+        "/database/project-02/00-thumb-bw.jpg": [
+          "/projects/canallivetv"
+        ],
+        "/database/project-01/00-thumb-bw.jpg": [
+          "/projects/lahceneabib"
+        ],
+        "/database/project-03/00-thumb-bw.jpg": [
+          "/projects/canaltouch"
+        ],
+        "/database/project-06/00-thumb-bw.jpg": [
+          "/projects/canalplayinfinity"
+        ]
+      },
+      "id": {
+        "9": [
+          "/projects/canalfootballapp"
+        ],
+        "4": [
+          "/projects/bring"
+        ],
+        "2": [
+          "/projects/canallivetv"
+        ],
+        "1": [
+          "/projects/lahceneabib"
+        ],
+        "5": [
+          "/projects/campdesmilles"
+        ],
+        "6": [
+          "/projects/canalplayinfinity"
+        ],
+        "7": [
+          "/projects/itele"
+        ],
+        "8": [
+          "/projects/layrr"
+        ],
+        "3": [
+          "/projects/canaltouch"
+        ]
+      },
+      "slug": {
+        "/projects/canaltouch": [
+          "/projects/canaltouch"
+        ],
+        "/projects/itele": [
+          "/projects/itele"
+        ],
+        "/projects/layrr": [
+          "/projects/layrr"
+        ],
+        "/projects/canalplayinfinity": [
+          "/projects/canalplayinfinity"
+        ],
+        "/projects/campdesmilles": [
+          "/projects/campdesmilles"
+        ],
+        "/projects/lahceneabib": [
+          "/projects/lahceneabib"
+        ],
+        "/projects/canallivetv": [
+          "/projects/canallivetv"
+        ],
+        "/projects/canalfootballapp": [
+          "/projects/canalfootballapp"
+        ],
+        "/projects/bring": [
+          "/projects/bring"
+        ]
+      },
+      "page": {
+        "index": [
+          "/projects/lahceneabib"
+        ]
+      },
+      "year": {
+        "2013": [
+          "/projects/canaltouch",
+          "/projects/layrr",
+          "/projects/itele",
+          "/projects/canalplayinfinity",
+          "/projects/campdesmilles",
+          "/projects/lahceneabib",
+          "/projects/canallivetv",
+          "/projects/bring",
+          "/projects/canalfootballapp"
+        ]
+      },
+      "mixture_month_year": {
+        "01/2013": [
+          "/projects/canaltouch",
+          "/projects/layrr",
+          "/projects/itele",
+          "/projects/canalplayinfinity",
+          "/projects/campdesmilles",
+          "/projects/lahceneabib",
+          "/projects/canallivetv",
+          "/projects/bring",
+          "/projects/canalfootballapp"
+        ]
+      },
+      "mixture_date": {
+        "2013-01-09t00:00:00z": [
+          "/projects/canalfootballapp"
+        ],
+        "2013-01-03t00:00:00z": [
+          "/projects/canaltouch"
+        ],
+        "2013-01-06t00:00:00z": [
+          "/projects/canalplayinfinity"
+        ],
+        "2013-01-01t00:00:00z": [
+          "/projects/lahceneabib"
+        ],
+        "2013-01-05t00:00:00z": [
+          "/projects/campdesmilles"
+        ],
+        "2013-01-07t00:00:00z": [
+          "/projects/itele"
+        ],
+        "2013-01-02t00:00:00z": [
+          "/projects/canallivetv"
+        ],
+        "2013-01-04t00:00:00z": [
+          "/projects/bring"
+        ],
+        "2013-01-08t00:00:00z": [
+          "/projects/layrr"
+        ]
+      },
+      "category": {
+        "développement flash": [
+          "/projects/lahceneabib"
+        ],
+        "conception": [
+          "/projects/canaltouch",
+          "/projects/layrr",
+          "/projects/itele",
+          "/projects/canalplayinfinity",
+          "/projects/lahceneabib",
+          "/projects/canallivetv",
+          "/projects/bring",
+          "/projects/canalfootballapp"
+        ],
+        "illustration": [
+          "/projects/layrr"
+        ],
+        "intégration": [
+          "/projects/layrr",
+          "/projects/bring"
+        ],
+        "design": [
+          "/projects/canaltouch",
+          "/projects/layrr",
+          "/projects/itele",
+          "/projects/canalplayinfinity",
+          "/projects/campdesmilles",
+          "/projects/lahceneabib",
+          "/projects/canallivetv",
+          "/projects/bring",
+          "/projects/canalfootballapp"
+        ],
+        "co-fondateur": [
+          "/projects/layrr"
+        ]
+      },
+      "title": {
+        "canal football app": [
+          "/projects/canalfootballapp"
+        ],
+        "lahcene abib photographe": [
+          "/projects/lahceneabib"
+        ],
+        "bring communication": [
+          "/projects/bring"
+        ],
+        "canaltouch": [
+          "/projects/canaltouch"
+        ],
+        "canal+ live tv": [
+          "/projects/canallivetv"
+        ],
+        "site-mémorial du camp des milles": [
+          "/projects/campdesmilles"
+        ],
+        "player canalplay infinity": [
+          "/projects/canalplayinfinity"
+        ],
+        "itele sur ipad": [
+          "/projects/itele"
+        ],
+        "layrr": [
+          "/projects/layrr"
+        ]
+      },
+      "month": {
+        "01": [
+          "/projects/canaltouch",
+          "/projects/layrr",
+          "/projects/itele",
+          "/projects/canalplayinfinity",
+          "/projects/campdesmilles",
+          "/projects/lahceneabib",
+          "/projects/canallivetv",
+          "/projects/bring",
+          "/projects/canalfootballapp"
+        ]
+      },
+      "ticks": {
+        "1357603200.0": [
+          "/projects/layrr"
+        ],
+        "1357516800.0": [
+          "/projects/itele"
+        ],
+        "1357689600.0": [
+          "/projects/canalfootballapp"
+        ],
+        "1356998400.0": [
+          "/projects/lahceneabib"
+        ],
+        "1357344000.0": [
+          "/projects/campdesmilles"
+        ],
+        "1357257600.0": [
+          "/projects/bring"
+        ],
+        "1357084800.0": [
+          "/projects/canallivetv"
+        ],
+        "1357171200.0": [
+          "/projects/canaltouch"
+        ],
+        "1357430400.0": [
+          "/projects/canalplayinfinity"
+        ]
+      }
+    },
+    "collection": {
+      "/projects/canaltouch": {
+        "img": "/database/project-03/00-thumb-bw.jpg",
+        "slug": "/projects/canaltouch",
+        "id": 3,
+        "year": "2013",
+        "published": true,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-03T00:00:00Z",
+        "category": [
+          "conception",
+          "design"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>CANALTOUCH</h4>\n\t  <p class=\"note\">Conception, Design</p>\n\t  <p>Cette application iPad/Android, destinée aux abonnés de CANAL+/CANALSAT, intègre différents services tels que la LIVE TV, CANAL+ A LA DEMANDE, un guide TV ainsi qu'une télécommande enrichie.</p>\n\t  \n\t  <a class=\"btn\" href=\"http://itunes.apple.com/fr/app/canaltouch/id432048888?mt=8\" target=\"_blanck\"><span>accédez à l'app store</span></a>\n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-03/01-couv.jpg\" />\n\t  <img src=\"/database/project-03/02-img.jpg\" />\n\t  <img src=\"/database/project-03/03-img.jpg\" />\n\t  <img src=\"/database/project-03/04-img.jpg\" />\n\t  <img src=\"/database/project-03/05-img.jpg\" />\n\t  <img src=\"/database/project-03/06-img.jpg\" />\n\t  <img src=\"/database/project-03/07-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Thu Jan 03 00:00:00 UTC 2013",
+        "ticks": 1357171200.0,
+        "month": "01",
+        "title": "CANALTOUCH"
+      },
+      "/projects/layrr": {
+        "img": "/database/project-08/00-thumb-bw.jpg",
+        "slug": "/projects/layrr",
+        "id": 8,
+        "year": "2013",
+        "published": true,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-08T00:00:00Z",
+        "category": [
+          "co-fondateur",
+          "conception",
+          "illustration",
+          "design",
+          "intégration"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>LAYRR</h4>\n\t  <p class=\"note\">Co-fondateur, Conception, Illustration, Design, Intégration</p>\n\t  <p>Voici la page de lancement de LAYRR, un réseau d'entraide pour les designers, les graphistes et les illustrateurs. Le but de ce site est de trouver un appui créatif ou de venir en aide aux autres membres.</p>\n\t  \n\t  <a class=\"btn\" href=\"http://layrr.com/\" target=\"_blanck\"><span>accédez au site</span></a>\n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-08/01-couv.png\" />\n\t  <img src=\"/database/project-08/02-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Tue Jan 08 00:00:00 UTC 2013",
+        "ticks": 1357603200.0,
+        "month": "01",
+        "title": "LAYRR"
+      },
+      "/projects/itele": {
+        "img": "/database/project-07/00-thumb-bw.jpg",
+        "slug": "/projects/itele",
+        "id": 7,
+        "year": "2013",
+        "published": false,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-07T00:00:00Z",
+        "category": [
+          "conception",
+          "design"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>Itele sur Ipad</h4>\n\t  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales ornare nibh, ac bibendum felis pharetra porta. In hac habitasse platea dictumst. Mauris elit ligula, mollis in lacinia et, commodo eget purus.</p>\n\n\t  <a class=\"btn\" href=\"http://itunes.apple.com/fr/app/canaltouch/id432048888?mt=8\" target=\"_blanck\"><span>accédez à l'app store</span></a>\n\t  \n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-07/01-couv.jpg\" />\n\t  <img src=\"/database/project-07/02-img.jpg\" />\n\t  <img src=\"/database/project-07/03-img.jpg\" />\n\t  <img src=\"/database/project-07/04-img.jpg\" />\n\t  <img src=\"/database/project-07/05-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Mon Jan 07 00:00:00 UTC 2013",
+        "ticks": 1357516800.0,
+        "month": "01",
+        "title": "Itele sur Ipad"
+      },
+      "/projects/canalplayinfinity": {
+        "img": "/database/project-06/00-thumb-bw.jpg",
+        "slug": "/projects/canalplayinfinity",
+        "id": 6,
+        "year": "2013",
+        "published": true,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-06T00:00:00Z",
+        "category": [
+          "conception",
+          "design"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>Player CANALPLAY INFINITY</h4>\n\t  <p class=\"note\">Conception, Design</p>\n\t  <p>Ce player, conçu pour le site CANALPLAY INFINITY fonctionne comme un media player. Il intègre un catalogue complet qui permet de profiter au mieux de ce service de SVOD.</p>\n\t  \n\t  <a class=\"btn\" href=\"http://www.canalplay.com/\" target=\"_blanck\"><span>accédez au site</span></a>\n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-06/01-couv.jpg\" />\n\t  <img src=\"/database/project-06/02-img.jpg\" />\n\t  <img src=\"/database/project-06/03-img.jpg\" />\n\t  <img src=\"/database/project-06/04-img.jpg\" />\n\t  <img src=\"/database/project-06/05-img.jpg\" />\n\t  <img src=\"/database/project-06/06-img.jpg\" />\n\t  <img src=\"/database/project-06/07-img.jpg\" />\n\t  <img src=\"/database/project-06/08-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Sun Jan 06 00:00:00 UTC 2013",
+        "ticks": 1357430400.0,
+        "month": "01",
+        "title": "Player CANALPLAY INFINITY"
+      },
+      "/projects/campdesmilles": {
+        "img": "/database/project-05/00-thumb-bw.jpg",
+        "slug": "/projects/campdesmilles",
+        "id": 5,
+        "year": "2013",
+        "published": false,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-05T00:00:00Z",
+        "category": [
+          "design"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>Site-mémorial du Camp des Milles</h4>\n\t  <p class=\"note\">Design</p>\n\t  <p>Il s'agit d'une borne interactive présentant des oeuvres d'artistes internés au Camp des Milles. La borne se trouve au sein du Site-mémorial du Camp des Milles.</p>\n\t  <p class=\"note\">Client: <a href=\"http://www.bring-communication.com/\" target=\"_blank\">Bring Communication</a></p>\n\t  \n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-05/01-img.jpg\" />\n\t  <img src=\"/database/project-05/02-img.jpg\" />\n\t  <img src=\"/database/project-05/03-img.jpg\" />\n\t  <img src=\"/database/project-05/04-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Sat Jan 05 00:00:00 UTC 2013",
+        "ticks": 1357344000.0,
+        "month": "01",
+        "title": "Site-mémorial du Camp des Milles"
+      },
+      "/projects/lahceneabib": {
+        "img": "/database/project-01/00-thumb-bw.jpg",
+        "slug": "/projects/lahceneabib",
+        "id": 1,
+        "year": "2013",
+        "published": true,
+        "page": "index",
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-01T00:00:00Z",
+        "category": [
+          "conception",
+          "design",
+          "développement flash"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>Lahcène ABIB Photojournaliste</h4>\n\t  <p class=\"note\">Conception, Design, Développement flash</p>\n\t  <p>Le portfolio du journaliste présente quelques uns de ses travaux. Ils sont classés selon trois principales rubriques, Société, Portraits et International.</p>\n\t  <p class=\"note\">Client: <a href=\"http://www.lahceneabib.com/\" target=\"_blank\">Lahcène ABIB</a></p>\n\t  \n\t  <a class=\"btn\" href=\"http://www.lahceneabib.com/\" target=\"_blanck\"><span>accédez au site</span></a>\n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-01/01-couv.jpg\" />\n\t  <img src=\"/database/project-01/02-img.jpg\" />\n\t  <img src=\"/database/project-01/03-img.jpg\" />\n\t  <img src=\"/database/project-01/04-img.jpg\" />\n\t  <img src=\"/database/project-01/05-img.jpg\" />\n\t  <img src=\"/database/project-01/06-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Tue Jan 01 00:00:00 UTC 2013",
+        "ticks": 1356998400.0,
+        "month": "01",
+        "title": "Lahcene Abib Photographe"
+      },
+      "/projects/canallivetv": {
+        "img": "/database/project-02/00-thumb-bw.jpg",
+        "slug": "/projects/canallivetv",
+        "id": 2,
+        "year": "2013",
+        "published": true,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-02T00:00:00Z",
+        "category": [
+          "conception",
+          "design"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>CANAL+ live TV</h4>\n\t  <p class=\"note\">Conception, Design</p>\n\t  <p>Ce player premium permet de visionner les chaînes CANAL+ et CANALSAT sur le web. Sa particularité est de pouvoir contrôler le direct. Il est ainsi possible de revoir les programmes d'une chaîne jusqu'à huit heures en arrière.</p>\n\t  \n\t  <a class=\"btn\" href=\"http://www.canalplus.fr/pid3646-c-live-tv-presentation.html\" target=\"_blanck\"><span>accédez au site</span></a>\n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-02/01-couv.jpg\" />\n\t  <img src=\"/database/project-02/02-img.jpg\" />\n\t  <img src=\"/database/project-02/03-img.jpg\" />\n\t  <img src=\"/database/project-02/04-img.jpg\" />\n\t  <img src=\"/database/project-02/05-img.jpg\" />\n\t  <img src=\"/database/project-02/06-img.jpg\" />\n\t  <img src=\"/database/project-02/07-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Wed Jan 02 00:00:00 UTC 2013",
+        "ticks": 1357084800.0,
+        "month": "01",
+        "title": "CANAL+ live TV"
+      },
+      "/projects/bring": {
+        "img": "/database/project-04/00-thumb-bw.jpg",
+        "slug": "/projects/bring",
+        "id": 4,
+        "year": "2013",
+        "published": true,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-04T00:00:00Z",
+        "category": [
+          "conception",
+          "design",
+          "intégration"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>Bring Communication</h4>\n\t  <p class=\"note\">Conception, Design, Intégration</p>\n\t  <p>Site vitrine de l'agence BRING COMMUNICATION DIGITALE. Le principe est simple. Une navigation au scroll qui dévoile peu à peu toutes les rubriques du site.</p>\n\t  <p class=\"note\">Client: <a href=\"http://www.bring-communication.com/\" target=\"_blank\">Bring Communication</a></p>\n\t  \n\t  <a class=\"btn\" href=\"http://www.bring-communication.com/\" target=\"_blanck\"><span>accédez au site</span></a>\n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-04/02-img.jpg\" />\n\t  <img src=\"/database/project-04/03-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Fri Jan 04 00:00:00 UTC 2013",
+        "ticks": 1357257600.0,
+        "month": "01",
+        "title": "Bring Communication"
+      },
+      "/projects/canalfootballapp": {
+        "img": "/database/project-09/00-thumb-bw.jpg",
+        "slug": "/projects/canalfootballapp",
+        "id": 9,
+        "year": "2013",
+        "published": true,
+        "mixture_month_year": "01/2013",
+        "mixture_date": "2013-01-09T00:00:00Z",
+        "category": [
+          "conception",
+          "design"
+        ],
+        "body": "\n<div class=\"project\">\n\t<span class=\"white-layer\"></span>\n\t<aside id=\"description\" class=\"description col3\">\n\t  <h4>CANAL FOOTBALL APP</h4>\n\t  <p class=\"note\">Conception, Design</p>\n\t  <p>L'application iPad de CANAL+, destinée aux fans de football, a pour objectif d'apporter du contenu additionnel (vidéos multi-cam, statistiques, notes des joueurs) lors du visionnage d'un match.</p>\n\t  \n\t  <a class=\"btn\" href=\"http://itunes.apple.com/fr/app/canal-football-app/id542610274?mt=8\" target=\"_blanck\"><span>accédez à l'app store</span></a>\n\t</aside>\n\t<div class=\"picture col2\">\n\t  <img src=\"/database/project-09/01-couv.png\" />\n\t  <img src=\"/database/project-09/02-img.jpg\" />\n\t  <img src=\"/database/project-09/03-img.jpg\" />\n\t  <img src=\"/database/project-09/04-img.jpg\" />\n\t  <img src=\"/database/project-09/05-img.jpg\" />\n\t  <img src=\"/database/project-09/06-img.jpg\" />\n\t  <img src=\"/database/project-09/07-img.jpg\" />\n\t</div>\n</div>\n",
+        "date": "Wed Jan 09 00:00:00 UTC 2013",
+        "ticks": 1357689600.0,
+        "month": "01",
+        "title": "CANAL FOOTBALL APP"
+      }
+    }
+  }
+}

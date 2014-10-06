@@ -1,0 +1,20 @@
+<div class="contact col1">
+  <div class="left col2-2">
+    <h2>Contactez-moi</h2>
+    <ul>
+      <li>{{global.contact.name}}</li>
+      <li>{{global.contact.address}}</li>
+      <li>{{global.contact.city}}</li>
+      <li><a href="mailto:{{global.contact.mail}}">{{global.contact.mail}}</a></li>
+      <li><a href="tel:{{global.contact.phone}}">{{global.contact.phone}}</a></li>
+    </ul>
+  </div>
+  <div class="right col2-2">
+    <h2>Suivez-moi</h2>
+    <ul>
+      {% for item in global.contact.social %}
+        <li><a href="{{item.url}}" target="_blank">{{item.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

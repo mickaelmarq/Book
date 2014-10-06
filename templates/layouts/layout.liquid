@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Title block allowing child pages to override -->
+        <title>{% block title %}Mickaël Marquez - UI/UX Designer, Graphiste et Intégrateur{% endblock %}</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+          
+        <meta property="og:type" content="website" /> 
+        <meta property="og:title" content="Mickaël Marquez" />
+        <meta property="og:description" content="UI/UX Designer, graphiste et intégrateur en freelance sur Paris" />
+        <meta property="og:image" content="http://www.mickaelmarquez.com/fb.png" />
+        <meta property="og:url" content="http://www.mickaelmarquez.com/" />
+
+        <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+        <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-72x72-precomposed.png" sizes="72x72">
+        <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-114x114-precomposed.png" sizes="114x114">
+        <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-144x144-precomposed.png" sizes="144x144">
+        <!-- Styles -->
+        {{ "app.css" | asset_url | stylesheet_tag }}
+        <!-- Style block allowing child pages to inject their own styles -->
+        {% block styles %}{% endblock %}
+    </head>
+    <body>
+
+        
+
+        <span id="page-loader" class="loader"></span>
+
+        <div id="wrap">
+
+            <section id="contact-wrap">
+                {% include "contact" %}
+            </section>
+            <div id="wrapper">
+                <!-- Include -->
+                <header id="header-wrap">
+                    {% include "header" %}
+                </header>
+                <header id="header-wrap2">
+                    {% include "header" %}
+                </header>
+                <!-- Content block, child page inject content -->
+
+                {% include "about" %}
+
+                {% include "skills" %}
+
+                <section id="book-wrap">
+                    <div id="book" class="col1">
+
+                        <header class="headline">
+                            <h2>{{global.book-title}}</h2>
+                            <p class="col2">{{global.book-description}}</p>
+                        </header>
+
+
+                        <div id="project" class="first">
+                        {% block content %}
+
+
+
+                        {% endblock %}
+                        </div>
+
+                        {% include "projects" %}
+
+
+                        
+                     
+                        {% include "dribbble" %}
+
+
+                     </div>
+                </section>
+
+                
+
+                {% include "footer" %}
+
+                
+
+            </div>
+            <section id="contact-wrap2">
+                {% include "contact" %}
+            </section>
+
+        </div>
+
+        <span id="site-loader" class="loader"></span>
+    
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-34971531-1']);
+          _gaq.push(['_trackPageview']);
+        
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+    
+        
+        <!-- Script block allowing child pages to inject their own scripts -->
+        {% block scripts %}{% endblock %}
+        {{ "jquery-1.7.2.min.js" | asset_url | script_tag }}
+        {{ "app.js" | asset_url | script_tag }}
+    </body>
+</html>

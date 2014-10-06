@@ -1,0 +1,10 @@
+<div id="projects">
+{% collection "projects" order desc %}
+  {% for project in collection.items %}
+
+
+    {% include "projects/small" %}
+
+  {% endfor %}
+{% endcollection %}
+</div>
